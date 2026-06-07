@@ -1,0 +1,11 @@
+{
+    "ok":  true,
+    "package":  "C:\\Users\\落秋\\Documents\\Codex\\2026-06-07\\hatch-pet-d-ai-codex-skills\\outputs\\nino-pet",
+    "run_dir":  "C:\\Users\\落秋\\Documents\\Codex\\2026-06-07\\hatch-pet-d-ai-codex-skills\\work\\nino-pet-run",
+    "spritesheet":  "C:\\Users\\落秋\\Documents\\Codex\\2026-06-07\\hatch-pet-d-ai-codex-skills\\outputs\\nino-pet\\spritesheet.webp",
+    "pet_json":  "C:\\Users\\落秋\\Documents\\Codex\\2026-06-07\\hatch-pet-d-ai-codex-skills\\outputs\\nino-pet\\pet.json",
+    "contact_sheet":  "C:\\Users\\落秋\\Documents\\Codex\\2026-06-07\\hatch-pet-d-ai-codex-skills\\outputs\\nino-pet\\qa\\contact-sheet.png",
+    "validation":  "C:\\Users\\落秋\\Documents\\Codex\\2026-06-07\\hatch-pet-d-ai-codex-skills\\outputs\\nino-pet\\qa\\validation.json",
+    "review":  "C:\\Users\\落秋\\Documents\\Codex\\2026-06-07\\hatch-pet-d-ai-codex-skills\\outputs\\nino-pet\\qa\\review.json",
+    "visual_qa":  "pass"
+}
