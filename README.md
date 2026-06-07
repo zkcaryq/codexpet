@@ -1,6 +1,6 @@
-# 中野二乃 Codex Pet
+# codexpet
 
-Codex custom pet package for `中野二乃`.
+Codex custom pet package for `中野二乃` / Nakano Nino.
 
 ## Files
 
